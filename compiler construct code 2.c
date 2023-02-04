@@ -1,4 +1,4 @@
-import re                                 # for performing regex expressions
+import re                                
 
 tokens = []  
 def fmtcharRecog(text):
